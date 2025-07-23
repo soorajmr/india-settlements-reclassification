@@ -90,7 +90,7 @@ State,state_name,status_2026,counts,population_2026
 21,Odisha,CT_2026,100,668358
 21,Odisha,ST_2011,107,6571414
 21,Odisha,ST_2026,8,72416
-21,Odisha,Village,51207,36524290
+21,Odisha,Village,51208,36524408
 22,Chhattisgarh,CT_2011,8,91325
 22,Chhattisgarh,CT_2026,53,338093
 22,Chhattisgarh,ST_2011,168,7087654
@@ -117,17 +117,17 @@ State,state_name,status_2026,counts,population_2026
 27,Maharashtra,CT_2026,179,1720203
 27,Maharashtra,ST_2011,256,53861838
 27,Maharashtra,ST_2026,153,3487429
-27,Maharashtra,Village,43370,68032926
-28,Andhra Pradesh,CT_2011,105,1953303
-28,Andhra Pradesh,CT_2026,125,1665618
-28,Andhra Pradesh,ST_2011,105,16396453
-28,Andhra Pradesh,ST_2026,19,407000
-28,Andhra Pradesh,Village,17583,35977564
+27,Maharashtra,Village,43426,68086045
+28,Andhra Pradesh,CT_2011,89,1638499
+28,Andhra Pradesh,CT_2026,115,1425354
+28,Andhra Pradesh,ST_2011,83,13525849
+28,Andhra Pradesh,ST_2026,41,917770
+28,Andhra Pradesh,Village,17539,35860521
 29,Karnataka,CT_2011,87,838068
 29,Karnataka,CT_2026,170,1397135
 29,Karnataka,ST_2011,220,25288487
 29,Karnataka,ST_2026,97,1178712
-29,Karnataka,Village,29099,40252146
+29,Karnataka,Village,29113,40274188
 30,Goa,CT_2011,56,519406
 30,Goa,CT_2026,7,56754
 30,Goa,ST_2011,14,474462
@@ -152,8 +152,8 @@ State,state_name,status_2026,counts,population_2026
 35,Andaman & Nicobar Islands,CT_2026,2,13657
 35,Andaman & Nicobar Islands,ST_2011,1,115190
 35,Andaman & Nicobar Islands,Village,553,239085
-36,Telangana,CT_2011,28,284217
-36,Telangana,CT_2026,38,307921
-36,Telangana,ST_2011,20,9774008
-36,Telangana,ST_2026,135,2766721
-36,Telangana,Village,10066,22703174
+36,Telangana,CT_2011,43,440922
+36,Telangana,CT_2026,49,472020
+36,Telangana,ST_2011,42,12700275
+36,Telangana,ST_2026,113,2491076
+36,Telangana,Village,10039,22749860

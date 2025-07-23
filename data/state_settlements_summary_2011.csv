@@ -60,7 +60,7 @@ State,state_name,status_2011,counts,population_2011
 20,Jharkhand,Village,32394,25055073
 21,Odisha,CT,116,827515
 21,Odisha,ST,107,6176141
-21,Odisha,Village,51310,34970451
+21,Odisha,Village,51311,34970562
 22,Chhattisgarh,CT,14,135330
 22,Chhattisgarh,ST,168,5800044
 22,Chhattisgarh,Village,20126,19607961
@@ -78,13 +78,13 @@ State,state_name,status_2011,counts,population_2011
 26,Dadra & Nagar Haveli,Village,65,183114
 27,Maharashtra,CT,278,4022570
 27,Maharashtra,ST,256,46795689
-27,Maharashtra,Village,43609,61509924
-28,Andhra Pradesh,CT,116,2053198
-28,Andhra Pradesh,ST,105,15139846
-28,Andhra Pradesh,Village,17716,34884462
+27,Maharashtra,Village,43665,61556074
+28,Andhra Pradesh,CT,112,2012294
+28,Andhra Pradesh,ST,83,12489242
+28,Andhra Pradesh,Village,17672,34776389
 29,Karnataka,CT,127,1226948
 29,Karnataka,ST,220,22399014
-29,Karnataka,Village,29326,37449811
+29,Karnataka,Village,29340,37469335
 30,Goa,CT,56,473911
 30,Goa,ST,14,432903
 30,Goa,Village,334,551731
@@ -102,6 +102,6 @@ State,state_name,status_2011,counts,population_2011
 35,Andaman & Nicobar Islands,CT,4,35430
 35,Andaman & Nicobar Islands,ST,1,108058
 35,Andaman & Nicobar Islands,Village,555,237093
-36,Telangana,CT,112,2063889
-36,Telangana,ST,20,8853268
-36,Telangana,Village,10155,21543025
+36,Telangana,CT,116,2104793
+36,Telangana,ST,42,11503872
+36,Telangana,Village,10128,21585313
