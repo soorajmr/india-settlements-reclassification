@@ -1,0 +1,96 @@
+State_Name,State_Code,Localbody_Type_Name,Count
+Jammu And Kashmir,1,Municipal Committee,57
+Jammu And Kashmir,1,Municipal Corporation,2
+Jammu And Kashmir,1,Municipal Council,19
+Himachal Pradesh,2,Municipal Corporation,5
+Himachal Pradesh,2,Municipal Council,29
+Himachal Pradesh,2,Nagar Panchayat,26
+Punjab,3,Municipal Corporation,13
+Punjab,3,Municipality,98
+Punjab,3,Nagar Panchayat,55
+Chandigarh,4,Municipal Corporation,1
+Uttarakhand,5,Cantonment Board,9
+Uttarakhand,5,Municipal Corporation,11
+Uttarakhand,5,Municipality,45
+Uttarakhand,5,Nagar Panchayat,51
+Haryana,6,Municipal Committee,52
+Haryana,6,Municipal Corporation,11
+Haryana,6,Municipal Council,24
+Delhi,7,Municipal Corporation,3
+Delhi,7,NCT Municipal Council,1
+Rajasthan,8,Municipal Corporation,10
+Rajasthan,8,Municipal Council,69
+Rajasthan,8,Municipality(Nagar Palika),227
+Uttar Pradesh,9,Cantonment Board,13
+Uttar Pradesh,9,Municipal Corporation,17
+Uttar Pradesh,9,Municipality,200
+Uttar Pradesh,9,Notified Area Council,8
+Uttar Pradesh,9,Town Panchayat,545
+Bihar,10,Municipal Corporation,19
+Bihar,10,Municipal Council,90
+Bihar,10,Town Panchayat,161
+Sikkim,11,Municipal Corporation,1
+Sikkim,11,Municipal council,1
+Sikkim,11,Nagar Panchayat,5
+Arunachal Pradesh,12,Municipal Corporation,1
+Arunachal Pradesh,12,Municipal Council,1
+Arunachal Pradesh,12,Town Panchayat,33
+Nagaland,13,Municipality,3
+Nagaland,13,Town Council,36
+Manipur,14,Municipal Corporation,1
+Manipur,14,Municipal Council,26
+Mizoram,15,Municipal Corporation,1
+Mizoram,15,Notified Area Council,22
+Tripura,16,Municipal Corporation,1
+Tripura,16,Municipality,13
+Tripura,16,Nagar Panchayat,13
+Meghalaya,17,Municipal Board,6
+Meghalaya,17,Town Committee,5
+Assam,18,Municipal Board,40
+Assam,18,Municipal Corporation,1
+Assam,18,Town Committee,75
+West Bengal,19,Municipal Corporation,7
+West Bengal,19,Municipality,118
+West Bengal,19,Notified area Council,3
+Jharkhand,20,Cantonment Board,1
+Jharkhand,20,Municipal Corporation,11
+Jharkhand,20,Municipality,20
+Jharkhand,20,Nagar Panchayat,17
+Jharkhand,20,Notified Area,1
+Odisha,21,Municipal Corporation,5
+Odisha,21,Municipality,48
+Odisha,21,Notified Area Council,62
+Chhattisgarh,22,Municipal Corporation,14
+Chhattisgarh,22,Municipality,51
+Chhattisgarh,22,Town Panchayat,126
+Madhya Pradesh,23,Cantonment Board,4
+Madhya Pradesh,23,Municipal Corporation,16
+Madhya Pradesh,23,Municipality,99
+Madhya Pradesh,23,Town Panchayat,298
+Gujarat,24,Municipal Corporation,8
+Gujarat,24,Municipality,159
+Gujarat,24,Notified Area Council,1
+Maharashtra,27,Municipal Corporation,29
+Maharashtra,27,Municipality,239
+Maharashtra,27,Nagar Panchayat,141
+Andhra Pradesh,28,Municipal Corporation,17
+Andhra Pradesh,28,Municipality,82
+Andhra Pradesh,28,Nagar Panchayat,25
+Karnataka,29,City Corporation,11
+Karnataka,29,City Municipal Council,61
+Karnataka,29,Notified Area Committee,4
+Karnataka,29,Town Municipal Council,126
+Karnataka,29,Town Panchayat,115
+Goa,30,Municipal Corporation,1
+Goa,30,Municipality,13
+Kerala,32,MUNICIPAL CORPORATION,6
+Kerala,32,MUNICIPALITY,87
+Tamil Nadu,33,Municipal Corporation,21
+Tamil Nadu,33,Municipality,138
+Tamil Nadu,33,Town Panchayat,490
+Puducherry,34,Municipality,5
+Andaman And Nicobar Islands,35,Municipality,1
+Telangana,36,Municipal Corporation,13
+Telangana,36,Municipality,142
+Ladakh,37,Municipal Committee,2
+The Dadra And Nagar Haveli And Daman And Diu,38,Municipal Council,3

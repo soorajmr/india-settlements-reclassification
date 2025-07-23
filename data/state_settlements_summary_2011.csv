@@ -1,0 +1,107 @@
+State,state_name,status_2011,counts,population_2011
+1,J&K and Ladakh,CT,36,272177
+1,J&K and Ladakh,ST,86,3161065
+1,J&K and Ladakh,Village,6553,9108060
+2,Himachal Pradesh,CT,3,18059
+2,Himachal Pradesh,ST,56,670493
+2,Himachal Pradesh,Village,20690,6176050
+3,Punjab,CT,74,686773
+3,Punjab,ST,143,9712373
+3,Punjab,Village,12581,17344192
+4,Chandigarh,CT,5,55857
+4,Chandigarh,ST,1,970602
+4,Chandigarh,Village,5,28991
+5,Uttarakhand,CT,41,488934
+5,Uttarakhand,ST,74,2560404
+5,Uttarakhand,Village,16793,7036954
+6,Haryana,CT,74,913823
+6,Haryana,ST,80,7928280
+6,Haryana,Village,6841,16509359
+7,NCT of Delhi,CT,110,4966190
+7,NCT of Delhi,ST,3,11402709
+7,NCT of Delhi,Village,112,419042
+8,Rajasthan,CT,112,1240320
+8,Rajasthan,ST,185,15807765
+8,Rajasthan,Village,44672,51500352
+9,Uttar Pradesh,CT,267,3557025
+9,Uttar Pradesh,ST,648,40938038
+9,Uttar Pradesh,Village,106774,155317278
+10,Bihar,CT,60,491071
+10,Bihar,ST,139,11266945
+10,Bihar,Village,44874,92341436
+11,Sikkim,CT,1,5883
+11,Sikkim,ST,8,147695
+11,Sikkim,Village,451,456999
+12,Arunachal Pradesh,CT,1,3812
+12,Arunachal Pradesh,ST,26,313557
+12,Arunachal Pradesh,Village,5589,1066358
+13,Nagaland,CT,7,65526
+13,Nagaland,ST,19,505440
+13,Nagaland,Village,1428,1407536
+14,Manipur,CT,23,183437
+14,Manipur,ST,28,650717
+14,Manipur,Village,2582,2021640
+15,Mizoram,ST,23,571771
+15,Mizoram,Village,830,525435
+16,Tripura,CT,26,290551
+16,Tripura,ST,16,670902
+16,Tripura,Village,875,2712464
+17,Meghalaya,CT,12,219520
+17,Meghalaya,ST,10,375930
+17,Meghalaya,Village,6839,2371439
+18,Assam,CT,126,969512
+18,Assam,ST,88,3429030
+18,Assam,Village,26395,26807034
+19,West Bengal,CT,781,7946697
+19,West Bengal,ST,129,21148659
+19,West Bengal,Village,40202,62180759
+20,Jharkhand,CT,188,2581716
+20,Jharkhand,ST,40,5351345
+20,Jharkhand,Village,32394,25055073
+21,Odisha,CT,116,827515
+21,Odisha,ST,107,6176141
+21,Odisha,Village,51310,34970451
+22,Chhattisgarh,CT,14,135330
+22,Chhattisgarh,ST,168,5800044
+22,Chhattisgarh,Village,20126,19607961
+23,Madhya Pradesh,CT,112,1105532
+23,Madhya Pradesh,ST,364,18963873
+23,Madhya Pradesh,Village,54903,52557404
+24,Gujarat,CT,153,1766759
+24,Gujarat,ST,195,23888524
+24,Gujarat,Village,18225,34694609
+25,Daman & Diu,CT,6,114578
+25,Daman & Diu,ST,2,68273
+25,Daman & Diu,Village,19,60396
+26,Dadra & Nagar Haveli,CT,5,62330
+26,Dadra & Nagar Haveli,ST,1,98265
+26,Dadra & Nagar Haveli,Village,65,183114
+27,Maharashtra,CT,278,4022570
+27,Maharashtra,ST,256,46795689
+27,Maharashtra,Village,43609,61509924
+28,Andhra Pradesh,CT,116,2053198
+28,Andhra Pradesh,ST,105,15139846
+28,Andhra Pradesh,Village,17716,34884462
+29,Karnataka,CT,127,1226948
+29,Karnataka,ST,220,22399014
+29,Karnataka,Village,29326,37449811
+30,Goa,CT,56,473911
+30,Goa,ST,14,432903
+30,Goa,Village,334,551731
+31,Lakshadweep,CT,6,50332
+31,Lakshadweep,Village,21,14141
+32,Kerala,CT,461,10295344
+32,Kerala,ST,59,5608075
+32,Kerala,Village,1018,17471135
+33,Tamil Nadu,CT,376,4999310
+33,Tamil Nadu,ST,721,29918130
+33,Tamil Nadu,Village,15979,37229590
+34,Puducherry,CT,4,91121
+34,Puducherry,ST,6,761632
+34,Puducherry,Village,90,395200
+35,Andaman & Nicobar Islands,CT,4,35430
+35,Andaman & Nicobar Islands,ST,1,108058
+35,Andaman & Nicobar Islands,Village,555,237093
+36,Telangana,CT,112,2063889
+36,Telangana,ST,20,8853268
+36,Telangana,Village,10155,21543025
